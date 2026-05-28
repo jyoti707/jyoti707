@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**jyoti707/jyoti707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Jyoti Singh
 
-Here are some ideas to get you started:
+🎓 B.Tech IT Student at ABES Engineering College
+💻 Web Developer
+🌱 Learning React and Backend Development
+🎨 Interested in Creative Designing and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+* HTML
+* CSS
+* JavaScript
+* React
+* C++
+* Data Structures & Algorithms (DSA)
+
+---
+
+## 📌 Projects
+
+* 🍔 Food Delivery Website
+* 🛒 Amazon Clone
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/jyoti-singh-57430b299/ 
+- LeetCode: https://leetcode.com/u/jyoti_singh75/
+- HackerRank: https://www.hackerrank.com/profile/ITB_2023B0131152
+- CodeChef: https://www.codechef.com/users/jyoti_singh73
+
+---
+
+⭐ Always learning, building, and improving every day 🚀
+
+
+
+
+
